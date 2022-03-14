@@ -17,5 +17,3 @@ Q3) Is it possible to forecast accident rates over time?
 Q4) What were the differences between rural and urban areas?
 
 https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales/dataset
-
-![alt text](http://https://miro.medium.com/max/1400/0*G_dmddj6ojxwKlFA/to/img.png)
